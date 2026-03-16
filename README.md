@@ -46,8 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-https://github.com/ashwinbaalaji/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/Screenshot%202026-03-15%20181212.png
-
+<img width="1315" height="758" alt="Image" src="https://github.com/user-attachments/assets/7c41b246-016b-4c07-90ca-b1fbd9dd004e" />
 
 ### Name:ASHWIN BAALAJI V K
 ### Register Number:25011987
